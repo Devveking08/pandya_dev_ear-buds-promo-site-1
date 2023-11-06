@@ -9,13 +9,13 @@ The primary objective of this assignment is to develop a website for showcasing 
 ## Project Details
 
 ### Website Components
-1. **Model Viewer:** We will integrate a model viewer to showcase our earbuds in a visually engaging manner.
+1. **Model Viewer:** I will integrate a model viewer to showcase my earbuds in a visually engaging manner.
 2. **Scrollbar Image:** A scrollbar image will enhance the user experience, making navigation more intuitive.
-3. **Videos:** We will incorporate videos into the website, with one currently being a placeholder for demonstration purposes.
+3. **Videos:** I will incorporate videos into the website, with one currently being a placeholder for demonstration purposes.
 4. **Color Schemes:** Attention will be given to harmonious color schemes that align with the earbuds' branding.
 
 ### Interactive Scrolling
-To provide an engaging user experience, we will implement GSAP animations to create smooth scrolling effects. Content will dynamically appear as the user scrolls through the website. Currently, a boxed layout serves as a preliminary representation of our intentions, defined using the 'em' unit.
+To provide an engaging user experience, we will implement GSAP animations to create smooth scrolling effects. Content will dynamically appear as the user scrolls through the website. Currently, a boxed layout serves as a preliminary representation of my intentions.
 
 ## Initial Phase
 
@@ -23,7 +23,7 @@ In the initial phase of the project, Professor Rob advised us to establish a res
 
 ## Special Thanks
 
-We would like to express our gratitude to Professor Rob for his invaluable assistance in answering our questions and providing feedback on this assignment. We highly value and appreciate his support.
+I would like to express our gratitude to Professor Rob for his invaluable assistance in answering our questions and providing feedback on this assignment. We highly value and appreciate his support.
 
 ## Prepared By
 
