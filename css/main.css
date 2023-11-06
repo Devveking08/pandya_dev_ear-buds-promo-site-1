@@ -1,0 +1,17 @@
+.container video {
+    width: 1080px;
+    height: 720px;
+    box-shadow: 3px;
+
+}
+
+
+
+/* Styles for smaller screens */
+@media (max-width: 730px) {
+    .container video {
+    width: 320px;
+    height: 320px;
+    box-shadow: 3px;
+ }
+}
